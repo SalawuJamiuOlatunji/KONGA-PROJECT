@@ -5,6 +5,8 @@
   border: 1px solid none;
 }
 
+/* CLICK ANYWHERE CURSOR CHANGE TO HAND ON THE PAGE */
+
 /* top */
 #top1 {
   width: 100%;
@@ -192,6 +194,10 @@
 }
 
 .belowNav2 {
+  color: white;
+  text-decoration: none;
+}
+.belowNav6 {
   color: white;
   text-decoration: none;
 }

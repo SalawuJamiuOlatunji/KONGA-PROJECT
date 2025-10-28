@@ -4,6 +4,7 @@
   padding: 0;
   border: 1px solid none;
 }
+/* CLICK ANYWHERE CURSOR CHANGE TO HAND ON THE PAGE */
 
 /* top */
 #top1 {
@@ -192,11 +193,11 @@
 }
 
 .belowNav2 {
-  color: inherit; /* or choose your own color like #000 or red */
+  color: white; /* or choose your own color like #000 or red */
   text-decoration: none; /* removes the underline */
 }
 .belowNav6 {
-  color: inherit; /* or choose your own color like #000 or red */
+  color: white; /* or choose your own color like #000 or red */
   text-decoration: none; /* removes the underline */
 }
 
