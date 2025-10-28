@@ -191,6 +191,15 @@
   margin-top: 5px;
 }
 
+.belowNav2 {
+  color: inherit; /* or choose your own color like #000 or red */
+  text-decoration: none; /* removes the underline */
+}
+.belowNav6 {
+  color: inherit; /* or choose your own color like #000 or red */
+  text-decoration: none; /* removes the underline */
+}
+
 @media (max-width: 500px) {
   #belowNav {
     display: none;
